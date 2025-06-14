@@ -38,3 +38,5 @@ node_modules/
 # Git hooks or custom local git config
 .git/hooks/
 .gitconfig.local
+
+.DS_Store
