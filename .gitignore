@@ -1,0 +1,40 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+*.out
+
+# Output of the go coverage tool
+*.coverprofile
+
+# Dependency directories
+vendor/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules if using any frontend tooling
+node_modules/
+
+# Git hooks or custom local git config
+.git/hooks/
+.gitconfig.local
